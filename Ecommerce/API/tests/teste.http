@@ -19,3 +19,6 @@ Content-Type: application/json
     "quantidade" : 123,
     "preco" : 57.75
 }
+
+###
+get http://localhost:5070/api/produto/buscar/Mouse
